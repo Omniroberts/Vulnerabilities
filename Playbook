@@ -1,0 +1,19 @@
+# Bug Bounty Playbook 🛡️
+
+A structured learning and hunting repository based on PortSwigger Web Security Academy
+and real-world bug bounty methodologies.
+
+## Focus Areas
+- Access Control
+- Authentication
+- Business Logic
+- API Security
+- Injection Attacks
+- Advanced Web Exploitation
+
+## Goals
+- Translate labs into real-world vulnerabilities
+- Develop repeatable testing methodologies
+- Build strong, well-documented findings
+
+> Learning → Thinking → Exploiting → Reporting
