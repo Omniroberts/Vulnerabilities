@@ -1,0 +1,53 @@
+bug-bounty-playbook/
+│
+├── README.md
+│
+├── roadmap/
+│   ├── phase-1-foundation.md
+│   ├── phase-2-exploitation.md
+│   ├── phase-3-advanced.md
+│
+├── vulnerabilities/
+│   ├── access-control/
+│   │   ├── idor.md
+│   │   ├── role-bypass.md
+│   │
+│   ├── authentication/
+│   │   ├── login-bypass.md
+│   │   ├── password-reset.md
+│   │
+│   ├── business-logic/
+│   │   ├── infinite-money.md
+│   │   ├── workflow-bypass.md
+│   │
+│   ├── sqli/
+│   │   ├── union-based.md
+│   │   ├── blind-time.md
+│   │   ├── blind-oob.md
+│   │
+│   ├── xss/
+│   │   ├── stored.md
+│   │   ├── dom.md
+│   │
+│   ├── api-testing/
+│   │   ├── idor-api.md
+│   │   ├── mass-assignment.md
+│
+├── labs/
+│   ├── portswigger/
+│   │   ├── apprentice/
+│   │   ├── practitioner/
+│   │   ├── expert/
+│
+├── checklists/
+│   ├── recon.md
+│   ├── auth-testing.md
+│   ├── api-testing.md
+│
+├── templates/
+│   ├── bug-report-template.md
+│   ├── lab-notes-template.md
+│
+└── resources/
+    ├── payloads.md
+    ├── tools.md
